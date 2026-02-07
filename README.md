@@ -1,1 +1,1 @@
-Github hosted web pages to implement within Sanquin Qualtrics data collection survey for standardied nail image aqcuisition. 3 pages that show users correct hand positioning for 3 different hand positions.  
+Github hosted web pages to implement within Sanquin Qualtrics data collection survey for standardized nail image aqcuisition. 3 pages that show users correct hand positioning for 3 different hand positions.  
